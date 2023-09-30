@@ -8,18 +8,21 @@ Overall this project helps improve customer experience and helps them with Perso
 **Video-Demo:**
 
 
-https://github.com/parmishh/Fashion-Expert/assets/91942072/21fdc3a1-f909-4e66-b181-2959961fed3d
+
+https://github.com/parmishh/Fashion-Expert/assets/91942072/a3c5a01a-1a54-48e0-9d7f-87dbbbc849db
+
+
 
 
 ## Use Cases
-<img width="670" alt="Screenshot 2023-09-24 003159" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/2b81eea8-dd4f-4086-9d99-904b926c78df">
+<img width="670" alt="Screenshot 2023-09-24 003159" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/cd6a5b31-11ff-48c3-a470-d1d7a76c064f">
 
 ## Working
-<img width="670" alt="Screenshot 2023-09-22 234806" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/a9923534-398d-475d-841c-a48d9d57b898">
+<img width="670" alt="Screenshot 2023-09-22 234806" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/17be6981-8612-41dd-84c5-684386e40e58">
 
 ## Features implemented
 
-<img width="670" alt="Screenshot 2023-09-24 004241" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/cb3c9e80-34bf-4928-b325-80e96a54c89b">
+<img width="670" alt="Screenshot 2023-09-24 004241" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/8b5e359b-c162-47b0-bad3-1d222732fe57">
 
 
 
@@ -49,13 +52,13 @@ streamlit run GenAI_Model_interface.py
 
 ## Outputs
 
-<img width="670" alt="Screenshot 2023-09-24 004728" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/e1148b67-e0bd-4018-bf67-e43f732c444e">
-<img width="670" alt="Screenshot 2023-09-24 004753" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/bca1ca2b-3a98-45b1-82ee-27543886eb50">
-<img width="670" alt="Screenshot 2023-09-24 004817" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/c0847824-c748-45aa-a14b-d5e268d8c330">
-<img width="670" alt="Screenshot 2023-09-24 004846" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/256ea037-5ae6-4e16-957e-0d0a35a749ee">
+<img width="670" alt="Screenshot 2023-09-24 004728" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/eee23015-9224-4b44-aafa-5168d3251297">
+<img width="670" alt="Screenshot 2023-09-24 004753" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/8895c26c-e559-4c19-a71b-fc9dc62602df">
+<img width="670" alt="Screenshot 2023-09-24 004817" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/70d4cac6-a17a-4696-80c9-2eeee0b5e901">
+<img width="670" alt="Screenshot 2023-09-24 004846" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/76cdc0ce-246c-49da-8d52-0b64ce978a9a">
 
 ## Future Scope for the Project
-<img width="670" alt="Screenshot 2023-09-24 004921" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/a2e3d93f-ee2d-4f8e-8ad6-46ec6cab42db">
+<img width="670" alt="Screenshot 2023-09-24 004921" src="https://github.com/parmishh/Fashion-Expert/assets/91942072/7383922c-3b42-4442-85cf-6ba308b27250">
 
 
 
